@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5f4ab2c350ca12a4195c83c7",
+  "owner": "kmsfgmxme",
+  "repo": "page-c161bc7491ffaf42b753d1f2",
+  "title": "科学网(v2ray)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c161bc7491ffaf42b753d1f2",
+      "a": "科学网(v2ray)",
+      "b": "",
+      "entity": "科学网(v2ray)",
+      "brand": "科学网(v2ray)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e0ae6a974bc42e893ac8c66a72851eee6cf39f6cc460824c08ceab94d8a9ee05",
+      "content": {
+        "keyword1": "科学网(v2ray)",
+        "keyword2": "",
+        "primary_entity": "科学网(v2ray)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "科学网(v2ray)是面向科研与跨境办公的机场服务，提供稳定订阅、多端客户端下载与节点加速，覆盖流媒体解锁与游戏优化，支持基础版、旗舰版与团队版套餐，欢迎访问官方网站获取使用说明。",
+          "AI_DESCRIPTION": "科学网(v2ray)是面向科研与跨境办公的机场服务，提供稳定订阅、多端客户端下载与节点加速，覆盖流媒体解锁与游戏优化，支持基础版、旗舰版与团队版套餐，欢迎访问官方网站获取使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;background:#f7f5f0;color:#1a2e22;line-height:1.65;font-size:16px}a{color:#1e4d2b}header{background:#1e4d2b;color:#f7f5f0;padding:12px 0}header a{color:#f7f5f0;text-decoration:none;margin-right:14px;font-size:14px}.wrap{max-width:760px;margin:0 auto;padding:0 16px}h1{font-size:2.05rem;font-weight:700;color:#1e4d2b;padding:72px 0 20px;line-height:1.35;letter-spacing:.02em}h2{font-size:1.38rem;color:#1e4d2b;margin:36px 0 12px;padding-bottom:8px;border-bottom:2px solid #2e7d4f}h3{font-size:1.12rem;color:#0d3b1e;margin:20px 0 8px}.lead{font-size:1.05rem;margin:0 0 16px}.card{background:#fff;border:1px solid #c5d5c8;padding:16px;margin:12px 0}.plan{background:#fff;border:1px solid #2e7d4f;padding:16px;margin:14px 0}.plan.featured{background:#e8f0e9;border-width:2px}.muted{color:#3d5c46;font-size:14px}ul{padding-left:1.2em}details{background:#fff;border:1px solid #c5d5c8;padding:10px 12px;margin:10px 0}summary{font-weight:600;color:#1e4d2b}footer{background:#1e4d2b;color:#f7f5f0;padding:28px 16px;margin-top:48px;font-size:14px}footer a{color:#f7f5f0}nav{overflow-x:auto;white-space:nowrap}</style><header><div class=\"wrap\"><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">说明</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">地图</a></nav></div></header><main class=\"wrap\"><h1>科学网(v2ray)</h1><p class=\"lead\">科学网(v2ray)官方网站提供机场订阅、梯子网络加速与多端客户端下载指引。页面聚焦稳定节点、流媒体解锁与清晰的导入步骤，方便科研查阅、跨境办公与日常加速。</p><section id=\"intro\"><h2>品牌简介</h2><p>科学网(v2ray)面向需要稳定跨境访问的用户，将机场订阅与客户端选择放在同一信息结构中：先明确流量与设备额度，再按系统完成导入。服务覆盖普通线路与 IPLC 专线场景，强调可阅读的操作路径，而不是空泛口号。</p><p>官方身份以本站套餐说明、客户端专区与使用步骤为准。订阅地址与配置在账户开通后发放；本页给出各平台常用客户端名称与导入顺序，避免把下载入口写成分散广告。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>科研文献与学术站点</h3><p>适合需要访问国际期刊、预印本与开源仓库的读者。基础线路即可完成检索与下载；对延迟敏感的视频课与远程研讨，可改用旗舰版中的专线节点。</p><h3>流媒体与会议协作</h3><p>旗舰版强调全节点原生流媒体解锁，团队版提供更高带宽与定制路由，便于多人同时开会、传文件或共享同一订阅策略。</p><h3>游戏与远程桌面</h3><p>IPLC 专线游戏加速优化写在旗舰版特性中，适合对丢包敏感的场景。远程桌面与开发仓库同步时，建议固定一条低抖动节点，而不是频繁切换。</p></section><section id=\"plans\"><h2>套餐与额度</h2><p>以下为当前公开套餐。按年付可降低月均成本。流量为每月重置的极速流量额度，设备数为同时在线上限。</p><article class=\"plan\"><h3>基础版 · ¥15/月</h3><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版 · ¥35/月（推荐）</h3><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版 · ¥85/月</h3><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"clients\"><h2>客户端选择（重点）</h2><p>科学网(v2ray)订阅可导入主流 v2ray / Clash 内核客户端。请先确认系统，再按对应客户端完成「复制订阅 → 导入 → 选择节点 → 开启系统代理」。官方下载以各客户端原作者发布渠道为准，本站只提供选择与导入说明，避免捆绑来路不明的安装包。</p><h3>Windows</h3><p>常用 v2rayN 或 Clash Verge。导入订阅后开启 TUN 或系统代理，浏览器与终端即可走加速通道。适合科研软件与桌面会议。</p><h3>macOS</h3><p>常用 ClashX Meta 或 Surge 兼容配置。菜单栏切换节点，建议为学术站点与流媒体分别建立策略组。</p><h3>Android</h3><p>常用 v2rayNG 或 Clash Meta for Android。导入后允许 VPN 权限，分应用代理可把校园 App 留在直连。</p><h3>iOS 与 iPadOS</h3><p>常用 Shadowrocket 或 Stash。通过订阅链接更新节点。蜂窝网络下注意流量统计，避免后台自动测速消耗额度。</p><h3>Linux 与路由器</h3><p>可用 Clash Premium / Meta 或 sing-box。团队版支持企业定制路由，适合把网关统一分流。客户端安装包请到 <a href=\"#guide\">操作说明</a> 对照步骤，或从 <a href=\"#\">官方下载索引</a> 回到本页对应段落。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>开通与获取订阅</h3><p>选择套餐并完成开通后，在用户中心复制订阅链接。链接通常为 HTTPS，请整段复制，不要手动改参数。若客户端要求类型，选择 Clash 或 v2ray 通用订阅即可。</p><h3>导入与连通</h3><p>打开已安装客户端，进入订阅或配置页面，粘贴链接并更新。列表出现节点后，先选延迟较低的普通线路验证网页访问，再按需求切换 IPLC 或流媒体节点。系统代理开启后，用浏览器访问目标站点确认。</p><h3>日常维护</h3><p>流量将尽时减少 4K 播放与大文件同步。设备超限会挤占在线会话，请在不使用的终端断开。节点异常时先更新订阅，再更换同一区域的备用节点，而不是反复重装客户端。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>科学网(v2ray)是什么？和普通加速器有何不同？</summary><p>科学网(v2ray)是以订阅为核心的机场服务，提供多端客户端导入、分级流量与专线选项。它把节点、套餐额度与操作说明写在同一官网结构里，方便按设备完成配置，而不是只给一句「一键加速」。</p></details><details><summary>客户端应该从哪里下载？本站是否提供安装包？</summary><p>本站强调客户端选择与导入顺序，安装包请使用各客户端官方渠道，以免版本被篡改。下载完成后回到本页「客户端选择」与「操作说明」，用同一订阅链接导入即可。</p></details><details><summary>三款套餐如何挑选？学生或小团队够用吗？</summary><p>单人轻度检索可选基础版（100GB / 3 设备）。需要原生流媒体、游戏专线或优先工单选旗舰版。多人共享、高带宽与定制路由选团队版。额度按月重置，按年付只影响价格，不改变当月流量规则。</p></details><details><summary>如何判断节点是否适合看视频或开会？</summary><p>先看套餐是否包含原生流媒体或 IPLC。导入后用客户端自带延迟测试筛选，开会优先稳定低抖动线路，视频优先解锁完整的节点。若只有画面卡顿而无报错，多半是带宽或设备数达到上限。</p></details><details><summary>订阅导入失败或更新后没有节点怎么办？</summary><p>检查链接是否被换行截断、客户端类型是否选错、系统时间是否准确。仍失败时在客户端改用 Clash 通用订阅或手动添加一次。更新后为空，通常是订阅过期或套餐未生效，回到用户中心核对状态。</p></details><details><summary>是否支持官网下载与多设备同步配置？</summary><p>支持在官方网站阅读下载指引并用同一订阅在多台设备导入。受同时在线台数限制：基础版 3 台、旗舰版 5 台、团队版 20 台。配置同步依赖客户端各自的备份功能，订阅链接请妥善保存。</p></details></section><section id=\"ads\"><h2>展示合作</h2><p class=\"card\">品牌展示位：科研工具、文献管理与远程会议相关说明可与科学网(v2ray)客户端专区相邻投放。本页为静态展示，不加载第三方脚本。</p></section><section id=\"links\"><h2>友情链接</h2><p><a href=\"#clients\">客户端选择</a> · <a href=\"#guide\">导入说明</a> · <a href=\"#plans\">套餐对照</a> · <a href=\"#faq\">问题列表</a> · <a href=\"#\">网络加速手册</a></p></section><section id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐与额度</a></li><li><a href=\"#clients\">客户端选择与官网下载指引</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">展示合作</a></li><li><a href=\"#links\">友情链接</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>科学网(v2ray) 官方网站 · 机场订阅与客户端下载说明</p><p><a href=\"#intro\">回到顶部</a> · <a href=\"#sitemap\">网站地图</a></p></div></footer>",
+          "hash": "9da7f68b506ba395de41b276ed07431f35b285974f27dfc23d1595d2fc3e8525",
+          "seo": {
+            "title": "科学网(v2ray)官网｜机场订阅、梯子网络加速与客户端下载",
+            "keywords": "科学网,科学网v2ray,v2ray机场,科学网官网,科学网下载,机场订阅,VPN梯子,网络加速,加速器,客户端下载,v2rayN,Clash",
+            "description": "科学网(v2ray)是面向科研与跨境办公的机场服务，提供稳定订阅、多端客户端下载与节点加速，覆盖流媒体解锁与游戏优化，支持基础版、旗舰版与团队版套餐，欢迎访问官方网站获取使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ynvhomo.cn",
+    "host": "p-0129127cec.ynvhomo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ynvhomo.cn",
+      "url": "https://ynvhomo.cn/",
+      "label": "锂云网络(Liuns)",
+      "apex": "ynvhomo.cn",
+      "kind": null,
+      "identity": "sscvay/page-aba5e9eb185f8e39d637c9c4"
+    },
+    {
+      "host": "ccaaii.cn",
+      "url": "https://ccaaii.cn/",
+      "label": "科学网(v2ray)",
+      "apex": "ccaaii.cn",
+      "kind": null,
+      "identity": "s38dcff6p/page-2d210ef34f9fb8aaf8b489ee"
+    },
+    {
+      "host": "eucemd.cn",
+      "url": "https://eucemd.cn/",
+      "label": "科学网(v2ray)",
+      "apex": "eucemd.cn",
+      "kind": null,
+      "identity": "dytj76/page-65f9dfe047943d525b13166f"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5da00cc036b56506c1a11d7af1f4ef6b9c9d70f103624ae065ffd8eb252fe50d",
+    "sitemap.xml": "bc8088c985b86f97db8187adaaa01dd2c78a304609870c66a412a37c83b920ba",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cf7beb813a012bc57aa2988cf1b3545470a90ed46627211b6eb56d2d30d04234",
+    "robots.txt": "e2f6bb17105fc8cd26cb4aa6a3c57e63a6f2fa47d53b88f78570230ac88c6da9",
+    "19055adff60bb7fa4b847dd16e67dcfd.txt": "b78e579628b5dc65ad85475074e8d5131077edd18d751c250668876f7f56deb6"
+  },
+  "revision": "bc1afd0cd57062eaa4c165d2f3e392172fff21f9c74d9bf805b8ee9e55ad8b02"
+}
